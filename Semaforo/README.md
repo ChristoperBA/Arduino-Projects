@@ -1,2 +1,2 @@
 # Semaforos
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Semaforo](/Photos/semaforo.jpg)](https://www.youtube.com/watch?v=OrU6srRyzzM&ab_channel=ChristopherBrice%C3%B1o)
