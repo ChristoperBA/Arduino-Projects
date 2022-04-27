@@ -1,6 +1,7 @@
 # Arduino-Projects
 Digital Electronic and Microprocessors Projects 
 # Leds colors
+The circuit performs the lighting of 6 Led's (different colors) sequentially every 200 ms, once it reaches the end it returns the sequence with the same frequency and the program will start again.The sequence with the same frequency and the program will start again. 
 [![Ledscolores](/Photos/Colores.jpg)](https://www.youtube.com/watch?v=jLYmgjLani4&ab_channel=ChristopherBrice%C3%B1o)
 
 More videos in 

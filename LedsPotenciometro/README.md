@@ -1,6 +1,7 @@
 # Arduino-Projects
 Digital Electronic and Microprocessors Projects 
 # Leds Potenciometro 
+Controlling the resistance with a potentiometer we can control the luminous intensity in them, the 3 leds will be connected consecutively. 
 [![Potenciometro](/Photos/potenciometro.jpg)](https://www.youtube.com/watch?v=btBwuLx1Nag&ab_channel=ChristopherBrice%C3%B1o)
 
 More videos in 

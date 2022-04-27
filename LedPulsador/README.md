@@ -1,6 +1,7 @@
 # Arduino-Projects
 Digital Electronic and Microprocessors Projects 
 # Led Pulsador
+The circuit will have a push button which will act as an input to turn the LED on or off.
 [![Pulsador](/Photos/Pulsadores.png)](https://www.youtube.com/watch?v=Z74lGxt_9Ps&ab_channel=ChristopherBrice%C3%B1o)
 
 More videos in 

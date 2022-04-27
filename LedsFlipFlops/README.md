@@ -1,6 +1,7 @@
 # Arduino-Projects
 Digital Electronic and Microprocessors Projects 
 # Leds Flipflops
+The LED will have an on/off sequence using Flipflop 555.
 [![FlipFlops](/Photos/Flipflops.jpg)](https://www.youtube.com/watch?v=CnqLvIkW57U&ab_channel=ChristopherBrice%C3%B1o)
 
 More videos in 
